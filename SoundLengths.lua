@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_Cataclysm = {
+SpeakStoneSoundLengths_Pack_Cataclysm = {
     ["13504_completion.ogg"] = 1.58,
     ["13504_description.ogg"] = 25.06,
     ["13505_completion.ogg"] = 7.24,
