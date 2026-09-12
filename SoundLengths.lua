@@ -476,6 +476,7 @@ QuestReaderSoundLengths_Pack_Cataclysm = {
     ["14132_completion.ogg"] = 9.86,
     ["14132_description.ogg"] = 11.49,
     ["14133_description.ogg"] = 10.72,
+    ["14146_description.ogg"] = 10.81,
     ["14153_completion.ogg"] = 5.55,
     ["14153_description.ogg"] = 19.47,
     ["14154_completion.ogg"] = 3.50,
